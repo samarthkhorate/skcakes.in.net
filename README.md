@@ -56,6 +56,18 @@ The Online Cake Shop website is a fully responsive web application that allows u
    pip install -r requirements.txt
    ```
 
+💌 Contributing
+
+Contributions are welcome! Please fork this repository and submit a pull request to contribute to this project.
+
+🛡️ License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+ 📧 Contact
+
+For any inquiries, please contact Samarth Khorate at samkhorate@gmail.com
+
 
     📂 Project Structure
 
@@ -73,17 +85,5 @@ The Online Cake Shop website is a fully responsive web application that allows u
 
 
 
-
-## 💌 Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request to contribute to this project.
-
-🛡️ License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
- 📧 Contact
-
-For any inquiries, please contact Samarth Khorate at samkhorate@gmail.com
 
 
