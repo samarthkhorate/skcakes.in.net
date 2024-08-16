@@ -40,7 +40,24 @@ The Online Cake Shop website is a fully responsive web application that allows u
 - Implement a loyalty rewards program.
 - Expand to include other baked goods.
 
- 📂 Project Structure
+
+📝 How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/samarthkhorate/skcakes.in.net.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd skcakes.in.net
+   ```
+3. Install the dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+
+    📂 Project Structure
 
 ```
 .
@@ -55,22 +72,6 @@ The Online Cake Shop website is a fully responsive web application that allows u
 
 
 
-
-
-///📝 How to Run Locally///
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/samarthkhorate/skcakes.in.net.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd skcakes.in.net
-   ```
-3. Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 
 ## 💌 Contributing
