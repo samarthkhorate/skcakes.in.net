@@ -56,7 +56,8 @@ The Online Cake Shop website is a fully responsive web application that allows u
 
 
 
-📝 How to Run Locally
+
+///📝 How to Run Locally///
 
 1. Clone the repository:
    ```bash
